@@ -16,7 +16,6 @@
 
 ## 📜 Updates
 #### v1.8
-=========================
 - Se han añadido nuevos botones en el panel de control del /play
 - Se ha añadido el comando /sleep-timer, con este podrás establecer un temporizador y cuando este acabe el bot dejará de reproducir música y se saldrá del canal de voz
 - Hemos añadido el comando /filtros con el que puedes añadir/eliminar filtros a las canciones
